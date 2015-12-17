@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-Generally, The goal of this project is to transform a String into binary number (encode) and reversely transform a series of 
+Generally, The goal of this project is to transform a String into binary numbers (encode) and reversely transform a series of 
 binary numbers into a String(Decodee).
 
 Specifically, in this program, I created a Data Tree by using many Nodes. There are two types of Nodes: ValueNodes, written as
