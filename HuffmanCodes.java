@@ -1,9 +1,3 @@
-// Bao Liang
-// A99089908
-//cs12ecq
-
-
-
 
 import java.io.FileInputStream;
 import java.io.IOException;
